@@ -1,0 +1,86 @@
+.first-content {
+ background-image: url("/images/background.jpg");
+ border: 1px solid lightgrey;
+}
+
+.content {
+  background-color: rgb(230,230,230);
+  border: 1px solid lightgrey;
+}
+
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold; /* if you want the light version */
+  text-align: center;
+  text-decoration: underline
+
+}
+h3{
+  text-decoration: underline;
+}
+#face{
+  width: 60px;
+
+}
+#linkedin{
+  width: 50px;
+  padding: 0 20px;
+}
+#twitter{
+  width: 50px;
+}
+
+#card {
+  width: 200px;
+  height: 200px;
+  border-radius: 120px;
+  display: block;
+  margin: 0 auto;
+}
+
+#rocky {
+
+  width: 200px;
+}
+
+#star {
+
+  width: 200px;
+}
+
+table {
+  margin: 0 auto;
+}
+
+#nevoeiro {
+
+  width: 200px;
+}
+h2{
+  margin-top: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold; /* if you want the light version */
+}
+
+.profession{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold; /* if you want the light version */
+  text-align: center;
+  font-size: 25px;
+}
+.links{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold; /* if you want the light version */
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+body {
+
+}
